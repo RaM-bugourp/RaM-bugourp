@@ -11,16 +11,16 @@
 
 ---
 
-### About
+### Dream
 
-最大的梦想是找份一个月7k的工作早十晚六双休天天躺着等死
+找份一个月7k的工作早十晚六双休天天躺着吃着拼好饭等死
 ### What I Build
 
 🔧 **[Constat](https://github.com/operMaR/Constat_AI)** — 独立编排引擎，让 AI Agent 在 merge 之前先拿出证据。隔离沙箱门禁、失败即闭锁、零 token 验证循环。已发布 [PyPI](https://pypi.org/project/constat-engine/)。
 
-🤖 **[RAM Agents v3](https://github.com/RaM-bugourp)** — 全栈开发分层 Agent 套件。从意图识别到发布门禁的完整链路：分类 → 设计 → 测试 → 实现 → 验证 → 复盘。
+🤖 **[DBrepo](https://github.com/operMaR/DBrepo)** — 破甲，逆向，工作流，Harness工程研究记录&仓库
 
-🪦 **[外卖公墓](https://github.com/Witherwithwinter/Takeout-Graveyard)** — 每一份逝去的外卖，都值得一块墓碑。React + Supabase + 高德地图 PWA。
+🪦 **[外卖公墓](https://ripmyfood.fun/)** — 每一份逝去的外卖，都值得一块墓碑。React + Supabase + 高德地图 PWA。
 
 
 ### Tech Stack
